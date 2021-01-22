@@ -13,8 +13,6 @@ toc_sticky: true
 toc_label: "목차"
 ---
 
-# 마크 다운 연습
-
 ## 1. 출처
 * <https://devinlife.com/howto%20github%20pages/markdown-syntax/>  
 * <https://theorydb.github.io/envops/2019/05/22/envops-blog-how-to-use-md/>  
