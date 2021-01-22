@@ -16,8 +16,9 @@ toc_label: "목차"
 # 마크 다운 연습
 
 ## 1. 출처
-<https://devinlife.com/howto%20github%20pages/markdown-syntax/>  
-<https://theorydb.github.io/envops/2019/05/22/envops-blog-how-to-use-md/>  
+* <https://devinlife.com/howto%20github%20pages/markdown-syntax/>  
+* <https://theorydb.github.io/envops/2019/05/22/envops-blog-how-to-use-md/>  
+* <https://gist.github.com/ihoneymon/652be052a0727ad59601>  
 
 ## 2. 텍스트 효과
 줄바꿈은 라인 끝 스페이스 2번이다  
