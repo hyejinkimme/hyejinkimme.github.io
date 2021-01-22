@@ -32,7 +32,7 @@ words_per_minute         : 200
 comments:
   provider               : "disqus" # false (default), "disqus", "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
   disqus:
-    shortname            : hyejinkimme-github-io.disqus.com # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
+    shortname            : "hyejinkimme-github-io.disqus.com" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
   discourse:
     server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
@@ -97,11 +97,11 @@ author:
   avatar           : "/assets/images/computer.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Web Developer"
   location         : "Republic of Korea"
-  email            :
+  email            : "hyejinkimme@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "hyejinkimme@gmail.com"
+      url: "mailto:hyejinkimme@gmail.com"
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
