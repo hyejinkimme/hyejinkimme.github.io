@@ -10,6 +10,10 @@ last_modified_at: 2021-01-22T11:24:00
 ---
 
 # 마크 다운 연습
+
+## 출처
+<https://devinlife.com/howto%20github%20pages/markdown-syntax/>
+
 ## 텍스트 효과
 줄바꿈은 라인 끝 스페이스 2번이다  
 줄  
