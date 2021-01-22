@@ -97,11 +97,11 @@ author:
   avatar           : "/assets/images/computer.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Web Developer"
   location         : "Republic of Korea"
-  email            : "hyejinkimme@gmail.com"
+  email            : # "hyejinkimme@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:hyejinkimme@gmail.com"
+      url: "hyejinkimme@gmail.com"
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
