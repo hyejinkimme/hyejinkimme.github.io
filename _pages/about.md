@@ -4,6 +4,7 @@ title: "About"
 layout: single
 excerpt: "개발일지 블로그"
 toc: false
+share: false
 ---
 
 ###  개발 일지 블로그
