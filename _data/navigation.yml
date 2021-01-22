@@ -4,7 +4,7 @@ main:
     url: https://hyejinkimme.github.io
   - title: "Category"
     url: /categories/
-  - title: "Blog"
-    url: /categories/Blog
+  #- title: "Blog"
+  #  url: /categories/Blog
   - title: "About"
     url: /about/
