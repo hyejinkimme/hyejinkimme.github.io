@@ -35,8 +35,9 @@ published: false
   * 작품 추천 등...
 
 ##### 5. 개발환경
-  * Spring Framework, mysql
-  * jsp
+  * mysql
+  * Spring Framework (+Spring Security)
+  * jsps
 
 ##### 6. 기타
   * 안드로이드 어플 \- 푸시 알림 기능 등.
