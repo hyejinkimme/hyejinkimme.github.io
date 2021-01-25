@@ -37,3 +37,6 @@ published: false
 ##### 5. 개발환경
   * Spring Framework, mysql
   * jsp
+
+##### 6. 기타
+  * 안드로이드 어플 \- 푸시 알림 기능 등.
